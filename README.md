@@ -5,7 +5,7 @@
   Myself Bedant Hota,
   I am full-time computer science student, who is obsessed with code 😁.<br/>
   The technologies I develop in are C, C++, Javascript, React, Express, Node JS and python.<br/>
-  I usually develop in MERN Stack and sometimes I also prefer MEAN Stack too.<br/>
+  I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 - 🔭 I’m currently working on A Note Keeper App (MERN Stack)
 - 🌱 I’m currently learning python, GCP
    <img align="right" width= "300px" height="280px" src="https://i.ibb.co/q7dvZVC/undraw-coding-6mjf.png" alt="undraw-coding-6mjf" border="0">
