@@ -27,13 +27,12 @@
   <br/>
   <p align="left">
   <a href="https://stackoverflow.com/users/spartan_rok711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"           alt="spartan_rok711" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/bedanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bedanth"          height="30" width="40" /></a>
+  <a href="https://codesandbox.com/bedanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bedanth"          height="30" width="40" /></a> 
   <a href="https://instagram.com/mohaneshhota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohaneshhota"      height="30" width="40" /></a>
 </p>
   <br/>
 </details>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedanth&show_icons=true&locale=en&layout=compact" alt="bedanth" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
+<p><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedanth&show_icons=true&locale=en&layout=compact" alt="bedanth" /></p>
+<p>&nbsp;<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
