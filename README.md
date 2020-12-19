@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedanth&show_icons=true&locale=en&layout=compact" alt="bedanth" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
