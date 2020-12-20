@@ -1,4 +1,4 @@
-[![ProfileBanner](https://i.ibb.co/z5cF8pm/github-Banner.png)](https://github.com/bedantH)
+[![ProfileBanner](https://github.com/bedantH/bedantH/blob/main/Images/githubBanner.png)](https://github.com/bedantH)
 
 I am full-time computer science student, who is obsessed with code 😁.<br/>
 The technologies I develop in are C, C++, Javascript, React, Express, Node JS and python.<br/>
