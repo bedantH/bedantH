@@ -34,6 +34,6 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
   <br/>
 </details>
 <hr/>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bedanth&label=Profile%20views&color=0e75b6&style=flat" alt="bedanth" /> </p>
 <p><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedanth&show_icons=true&locale=en&layout=compact" alt="bedanth" /></p>
 <p>&nbsp;<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
