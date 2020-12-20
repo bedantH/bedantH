@@ -1,6 +1,7 @@
-### Hi there👋, 
+<img align="center" src="https://i.ibb.co/z5cF8pm/github-Banner.png"/>
 
-Myself Bedant Hota,I am full-time computer science student, who is obsessed with code 😁.<br/>
+
+I am full-time computer science student, who is obsessed with code 😁.<br/>
 The technologies I develop in are C, C++, Javascript, React, Express, Node JS and python.<br/>
 I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 <img align="right" width="50%" src="https://i.ibb.co/nzWPsMk/man-coder-development-programming-computer-vector-illustration-black-line-pencil-drawing-bearded-guy.png" alt="man-coder-development-programming-computer-vector-illustration-black-line-pencil-drawing-bearded-guy" border="0">
