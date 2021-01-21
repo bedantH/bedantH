@@ -24,12 +24,12 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
   <summary>Connect With Me 😄:</summary>
   <br/>
   <p align="left">
-    <a href="https://linkedin.com/in/bedant hota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bedant hota" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/spartan_rok711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"           alt="spartan_rok711" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/bedanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bedanth"          height="30" width="40" /></a> 
-  <a href="https://instagram.com/mohaneshhota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohaneshhota"      height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/@mohanesh_h2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@mohanesh_h2003" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mohanesh.h2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@mohanesh.h2003" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/bedant hota" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="bedant hota" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/spartan_rok711" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png"           alt="spartan_rok711" height="40" width="40" /></a>
+  <a href="https://repl.it/@bedantH" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" alt="bedanth"          height="40" width="40" /></a> 
+  <a href="https://instagram.com/mohaneshhota" target="blank"><img align="center" src="https://www.freepngimg.com/download/logo/62372-computer-neon-instagram-icons-hd-image-free-png.png" alt="mohaneshhota"      height="40" width="40" /></a>
+    <a href="https://www.hackerrank.com/@mohanesh_h2003" target="blank"><img align="center" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" alt="@mohanesh_h2003" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/@mohanesh.h2003" target="blank"><img align="center" src="https://avcbcoder.github.io/images/dev-icon/hackerearth-circle.png" alt="@mohanesh.h2003" height="40" width="40" /></a>
 </p>
   <br/>
 </details>
