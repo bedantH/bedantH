@@ -56,5 +56,5 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 <hr/>
 <h3>My WakaTime Stats 📊:</h3>
 
-<!--START_SECTION:waka-->  
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
