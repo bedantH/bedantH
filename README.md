@@ -7,7 +7,7 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 - 🔭 I’m currently working on A Note Keeper App (MERN Stack)
 - 🌱 I’m currently learning Kotlin, Python, 
 - 💬 Ask me about Frontend Development and Backend as well, I will try help you as much as I can  
-- 📫 How to reach me: Email: mohanesh.h2003@gmail.com
+- 📫 How to reach me: Email: bedanthota@yahoo.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact **I ❤ to code with some great music 🎧**
 <br/>
