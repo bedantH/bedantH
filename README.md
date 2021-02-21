@@ -58,7 +58,7 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
 C++          4 hrs 3 mins    ████████████████████▓░░░░   82.09 % 
 EJS          39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 % 
