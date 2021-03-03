@@ -58,8 +58,6 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
-
-Java         9 mins          ███████████████████████▒░   93.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
