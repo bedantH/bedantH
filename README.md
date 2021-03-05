@@ -58,6 +58,8 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 February, 2021 - 04 March, 2021
+
+C++   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
