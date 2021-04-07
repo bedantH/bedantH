@@ -58,12 +58,12 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 March, 2021 - 05 April, 2021
+Week: 30 March, 2021 - 06 April, 2021
 
-JavaScript   11 hrs 14 mins  █████████████████████▓░░░   86.35 % 
-CSS          1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript   10 hrs 42 mins  ██████████████████████░░░   87.90 % 
+CSS          57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
