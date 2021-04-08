@@ -19,6 +19,7 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
   <ul>
     <li>ThetaHacks I</li>
     <li>HoyaHacks</li>
+    <li>OneHacks</li>
   </ul>
   <br/>
 </details>
