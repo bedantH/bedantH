@@ -59,7 +59,7 @@ I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 April, 2021 - 16 April, 2021
+Week: 10 April, 2021 - 17 April, 2021
 
 JavaScript   7 hrs 22 mins   ███████████████████████▓░   94.82 % 
 HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
