@@ -1,11 +1,11 @@
 [![ProfileBanner](https://github.com/bedantH/bedantH/blob/main/Images/githubBanner.png)](https://github.com/bedantH)
 
 I am full-time computer science student, who is obsessed with code 😁.<br/>
-The technologies I develop in are C, C++, Javascript, React, Express, Node JS and python.<br/>
-I usually develop in MERN Stack and sometimes I also prefer MEAN Stack.<br/>
+The technologies I develop in are C, C++, Java, Javascript, React, NextJS, Express, Node JS and python.<br/>
+React Fanboii 😎🤟<br/>
 <img align="right" width="50%" src="https://i.ibb.co/nzWPsMk/man-coder-development-programming-computer-vector-illustration-black-line-pencil-drawing-bearded-guy.png" alt="man-coder-development-programming-computer-vector-illustration-black-line-pencil-drawing-bearded-guy" border="0">
-- 🔭 I’m currently working on A Note Keeper App (MERN Stack)
-- 🌱 I’m currently learning Kotlin, Python, 
+- 🔭 I’m currently working on a Chat Application (Angular Js)
+- 🌱 I’m currently learning Flutter, Next Js, Elixir 
 - 💬 Ask me about Frontend Development and Backend as well, I will try help you as much as I can  
 - 📫 How to reach me: Email: bedanthota@yahoo.com
 - 😄 Pronouns: He/His
