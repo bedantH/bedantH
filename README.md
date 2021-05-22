@@ -1,15 +1,16 @@
-[![ProfileBanner](https://github.com/bedantH/bedantH/blob/main/Images/githubBanner.png)](https://github.com/bedantH)
-
-I am full-time computer science student, who is obsessed with code 😁.<br/>
-The technologies I develop in are C, C++, Java, Javascript, React, NextJS, Express, Node JS and python.<br/>
+## Hola!, I'm Bedant 👋
+I'm a computer science student, who is paasionate about new technologies 😁.<br/>
+You can probably find me messing with my code, i'm code breaker though lol 😄. I usually work on my weird or absurd idea, don't know why but weird is awesome😎.
+Always passionate to meet new people, work with an amazing team. I'm definitely not a great speaker, but i'm a amazing listener 
+<br/>
 React Fanboii 😎🤟<br/>
-<img align="right" width="50%" src="https://i.ibb.co/nzWPsMk/man-coder-development-programming-computer-vector-illustration-black-line-pencil-drawing-bearded-guy.png" alt="man-coder-development-programming-computer-vector-illustration-black-line-pencil-drawing-bearded-guy" border="0">
+<img align="right" width="50%" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="guy" border="0">
 - 🔭 I’m currently working on a Chat Application (Angular Js)
 - 🌱 I’m currently learning Flutter, Next Js, Elixir 
 - 💬 Ask me about Frontend Development and Backend as well, I will try help you as much as I can  
 - 📫 How to reach me: Email: bedanthota@yahoo.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact **I ❤ to code with some great music 🎧**
+- ⚡ Fun fact **Let's race to the moon 🌚**
 <br/>
 <br/>
 
@@ -46,14 +47,9 @@ React Fanboii 😎🤟<br/>
   <br/>
 </details>
 <hr/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bedanth&label=Profile%20views&color=0e75b6&style=flat" alt="bedanth" /> </p>
-<p><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedanth&show_icons=true&locale=en&layout=compact" alt="bedanth" /></p>
-<p>&nbsp;<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<p>&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=bedanth&show_icons=true&locale=en" alt="bedanth" /></p>
+
 <hr/>
 <h3>My WakaTime Stats 📊:</h3>
 
