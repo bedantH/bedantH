@@ -55,7 +55,7 @@ React Fanboii 😎🤟<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
 Assembly   13 mins         █████████████████████████   100.00 % 
 ```
