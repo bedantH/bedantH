@@ -55,6 +55,9 @@ React Fanboii 😎🤟<br/>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 July, 2021 - 29 July, 2021
+
+JavaScript   10 mins         ███████████████░░░░░░░░░░   59.95 % 
+JSON         5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.93 % 
 ```
 <!--END_SECTION:waka-->
