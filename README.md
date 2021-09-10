@@ -55,9 +55,8 @@ React Fanboii 😎🤟<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
-JavaScript   12 mins         ██████████████████▓░░░░░░   74.69 % 
-HTML         4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.10 % 
+
 ```
 <!--END_SECTION:waka-->
