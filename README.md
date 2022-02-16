@@ -55,7 +55,9 @@ React Fanboii 😎🤟<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 3 hrs 58 mins
 
 SCSS         2 hrs 20 mins   ██████████████▓░░░░░░░░░░   58.59 % 
 JavaScript   1 hr 36 mins    ██████████░░░░░░░░░░░░░░░   40.17 % 
