@@ -1,16 +1,15 @@
-## Hola!, I'm Bedant 👋
+## Hola!, I'm Bedant Hota 👋
 I'm a computer science student, who is paasionate about new technologies 😁.<br/>
-You can probably find me messing with my code, i'm code breaker though lol 😄. I usually work on my weird or absurd idea, don't know why but weird is awesome😎.
-Always passionate to meet new people, work with an amazing team. I'm definitely not a great speaker, but i'm a amazing listener 
+You can probably find me messing with my code, i'm code breaker though lol 😄. Love to work on and learn new frontend and backend technologies as those are somethings that attract me a lot. Believes in UX and UI are best concepts that anyone have do. React crtic.
+Always passionate to meet new people, work with an amazing team. I'm definitely not a great speaker, but yeah I love to guide people and encourage them. 
 <br/>
-React Fanboii 😎🤟<br/>
 <img align="right" width="50%" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="guy" border="0">
-- 🔭 I’m currently working on a Chat Application (Angular Js)
-- 🌱 I’m currently learning Flutter, Next Js, Elixir 
+- 🔭 I’m currently working on a Recipe Application using React (yeah just wanted to play around with APIs)
+- 🌱 I’m currently learning Flutter, Kuberenets and Docker,
 - 💬 Ask me about Frontend Development and Backend as well, I will try help you as much as I can  
 - 📫 How to reach me: Email: bedanthota@yahoo.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact **Let's race to the moon 🌚**
+- ⚡ Fun fact ** Coding is the new normal - Albert Einstein (2019, colorized 😂😂) **
 <br/>
 <br/>
 
