@@ -52,7 +52,9 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
+From: 30 July 2023 - To: 06 August 2023
+
 No activity tracked
 ```
 
