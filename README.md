@@ -23,8 +23,6 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
   </ul>
   <br/>
 </details>
-
-<hr/>
 <!-- <details>
   <summary>Languages and Tools 🛠:</summary>
   <br/>
