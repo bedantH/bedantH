@@ -33,7 +33,7 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <details>
   <summary>Connect With Me 😄:</summary>
   <br/>
-  <p align="left">
+  <p align="left" display='inline'> 
     <a href="https://linkedin.com/in/bedant hota" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="bedant hota" height="40" width="40" /></a>
   <a href="https://stackoverflow.com/users/spartan_rok711" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png"           alt="spartan_rok711" height="40" width="40" /></a>
   <a href="https://repl.it/@bedantH" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" alt="bedanth"          height="40" width="40" /></a> 
