@@ -53,13 +53,13 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-TypeScript   10 hrs 3 mins   █████████████████████▓░░░   86.42 %
-CSS          43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-TSConfig     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript   12 hrs 31 mins  ██████████████████████▒░░   88.80 %
+CSS          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+TSConfig     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
