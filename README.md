@@ -53,7 +53,7 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2024 - To: 28 January 2024
+From: 22 January 2024 - To: 29 January 2024
 
 Svelte       3 mins          █████████▒░░░░░░░░░░░░░░░   37.18 %
 JSON         3 mins          █████████▒░░░░░░░░░░░░░░░   36.80 %
