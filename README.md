@@ -53,10 +53,12 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
-TypeScript   22 mins         ███████████████████░░░░░░   75.43 %
-Bash         7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Svelte       38 mins         ████████████████████████▓   98.86 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
