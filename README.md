@@ -53,13 +53,13 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2024 - To: 10 March 2024
+From: 04 March 2024 - To: 11 March 2024
 
-Python       1 hr 43 mins    ████████████████████░░░░░   80.58 %
-Svelte       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Batchfile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Python       1 hr 43 mins    ██████████████████████▒░░   88.84 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Batchfile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
