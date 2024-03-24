@@ -53,13 +53,13 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2024 - To: 21 March 2024
+From: 15 March 2024 - To: 22 March 2024
 
-JavaScript   10 hrs 42 mins  ███████████████████████░░   92.60 %
-JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-TypeScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   1 hr 36 mins    ████████████░░░░░░░░░░░░░   48.65 %
+JavaScript   1 hr 28 mins    ███████████▒░░░░░░░░░░░░░   44.90 %
+CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
