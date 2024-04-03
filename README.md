@@ -53,7 +53,7 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
 TypeScript   6 mins          ███████████████░░░░░░░░░░   60.22 %
 JSON         4 mins          █████████▓░░░░░░░░░░░░░░░   38.39 %
