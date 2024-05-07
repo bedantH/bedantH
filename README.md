@@ -53,7 +53,7 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2024 - To: 04 May 2024
+From: 28 April 2024 - To: 05 May 2024
 
 TypeScript   1 hr 58 mins    ███████████████████░░░░░░   75.35 %
 Rust         27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
