@@ -1,13 +1,15 @@
 ## Hola!, I'm Bedant Hota 👋
 I'm a computer science student, who is paasionate about new technologies 😁.<br/>
-You can probably find me messing with my code, i'm code breaker though lol 😄. Love to work on and learn new frontend and backend technologies as those are somethings that attract me a lot. Believes in UX and UI are best concepts that anyone have do. React crtic.
-Always passionate to meet new people, work with an amazing team. I'm definitely not a great speaker, but yeah I love to guide people and encourage them. 
+You can probably find me messing with my code, i'm code breaker though lol 😄. Love to work on and learn new frontend and backend technologies as those are somethings that intrigues me a lot. On journey from a frameworker to an engineer.
+Trying go into depths of tools I regularly use and making an attempt on recreating some.
+Always passionate to meet new people, work with an amazing team.
+"Teaching is the best method for learning.", love to mentor guidance seekers and motivating people.
 <br/>
 <img align="right" width="50%" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="guy" border="0">
-- 🔭 I’m currently working on a Recipe Application using React (yeah just wanted to play around with APIs)
-- 🌱 I’m currently learning Flutter, Kuberenets and Docker,
+- 🔭 I’m currently working on a Google Forms on Steroids with AI
+- 🌱 I’m currently learning Rust, Go, Microservices, System Design and DevOps
 - 💬 Ask me about Frontend Development and Backend as well, I will try help you as much as I can  
-- 📫 How to reach me: Email: bedanthota@yahoo.com
+- 📫 How to reach me: Email: codewithbedant@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact ** Coding is the new normal - Albert Einstein (2019, colorized 😂😂) **
 <br/>
@@ -20,6 +22,8 @@ Always passionate to meet new people, work with an amazing team. I'm definitely 
     <li>ThetaHacks I</li>
     <li>HoyaHacks</li>
     <li>OneHacks</li>
+    <li>HackOverflow 1.0</li>
+    <li>HackOverflow 2.0 (2nd runner-up 🏆)</li>
   </ul>
   <br/>
 </details>
