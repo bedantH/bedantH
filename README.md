@@ -57,13 +57,13 @@ Always passionate to meet new people, work with an amazing team.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-TypeScript   1 hr 58 mins    ███████████████████░░░░░░   75.35 %
-Rust         27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Scheme       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript   1 hr 54 mins    ██████████████████▓░░░░░░   74.67 %
+Rust         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Scheme       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
