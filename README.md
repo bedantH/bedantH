@@ -1,4 +1,6 @@
 ## Hola!, I'm Bedant Hota 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedantH" alt="bedantH" /></a> </p>
+<br/>
 I'm a computer science student, who is paasionate about new technologies 😁.<br/>
 You can probably find me messing with my code, i'm code breaker though lol 😄. Love to work on and learn new frontend and backend technologies as those are somethings that intrigues me a lot. On journey from a frameworker to an engineer.
 Trying go into depths of tools I regularly use and making an attempt on recreating some.
