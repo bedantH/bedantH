@@ -57,12 +57,9 @@ Always passionate to meet new people, work with an amazing team.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2024 - To: 08 May 2024
+From: 02 May 2024 - To: 09 May 2024
 
-Rust         13 mins         ████████████████░░░░░░░░░   63.61 %
-TypeScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   27.57 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Scheme       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
