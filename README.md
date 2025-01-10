@@ -57,7 +57,7 @@ Always passionate to meet new people, work with an amazing team.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
 No activity tracked
 ```
